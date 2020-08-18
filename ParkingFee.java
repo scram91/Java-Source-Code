@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class parkingfee {
+public class ParkingFee {
    
    public static void main(String[] args) {
       
