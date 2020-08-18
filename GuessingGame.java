@@ -1,7 +1,7 @@
 import java.util.Random; // program uses class Random
 import java.util.Scanner;
 
-public class RandomNumber1to20 {
+public class GuessingGame {
     public static void main(String[] args) {
         // randomNumbers object will produce random numbers
         Random randomNumbers = new Random();     
