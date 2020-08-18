@@ -3,7 +3,7 @@
 // Prints a self portrait and name in a box.
 
 
-public class portrait {
+public class Portrait {
 
    
 	public static void main(String[] args) {
